@@ -1,0 +1,14 @@
+.example {
+    color: red;
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    margin: 20px 20px 20px 20px;
+
+}
+
+.main {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

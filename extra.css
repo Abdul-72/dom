@@ -1,0 +1,17 @@
+
+.child {
+color:white;
+background-color: aqua;
+width: 200px;
+height: 200px;
+text-align: center;
+padding: 30px 30px 30px 30px;
+margin: 30px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bolder;
+}
+
+.m {
+display: flex;
+justify-content: space-around;
+}
